@@ -1,0 +1,17 @@
+.turnBack
+{
+  color: #fff;
+	text-decoration: none;
+  font-size: 40px;
+	position: fixed;
+	left: 60px;
+  top: 5px;
+  padding: 20px;
+
+}
+.turnBack:hover
+{
+  color: #0f0;
+	left: 55px;
+
+}

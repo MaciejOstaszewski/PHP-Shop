@@ -1,0 +1,34 @@
+.edit
+{
+  float: right;
+  color: #33AA00;
+/*  margin-left: 10px;*/
+}
+.delete
+{
+  float: right;
+  color: #DC6C3B;
+/*  margin-left: 10px;*/
+
+  font-size: 120%
+}
+.icon-pencil:hover
+{
+  color: #fff;
+}
+.icon-trash:hover
+{
+  color: #fff;
+}
+.icon-trash
+{
+  color: #ff0000;
+}
+.icon-pencil
+{
+  color: #00ff00;
+}
+.editRow, .deleteRow
+{
+  width: 20px;
+}

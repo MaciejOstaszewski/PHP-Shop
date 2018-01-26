@@ -1,0 +1,115 @@
+#from_container
+{
+  background-color: rgba(1,0,0,0.4);
+width: 80%;
+height: auto;
+
+	/*padding: 50px;*/
+  /*padding: 50px 0 50px 0 ;*/
+  padding-top: 50px;
+  padding-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	/*margin-top: 100px;*/
+  text-align: center;
+}
+#form_border
+{
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 200px;
+}
+#TopicForm_border
+{
+
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+#register_remainder
+{
+  padding-top: 20px;
+  padding-bottom: 5px;
+  font-size: 16px;
+  color: #97c0d3;
+  background-color: rgba(1,0,0,0.4);
+  width: 80%;
+	/*width: 600px;*/
+  height: 140px;
+	/*padding: 50px;*/
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+#register_remainder > hr
+{
+  border: 0.5px solid #97c0d3;
+}
+#register_button
+{
+  width: 180px;
+	background-color: #36b03c;
+	font-size:12px;
+	color: white;
+	padding: 10px 5px;
+	margin-top: 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none;
+  text-decoration: none;
+
+}
+#register_remainder >a:hover
+{
+  	background-color: #37b93d;
+}
+input[type=email],
+input[type=password]
+{
+	width: 300px;
+	background-color: #efefef;
+	color: #666;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 10px;
+	box-sizing: border-box;
+	outline: none;
+	margin-top: 10px;
+}
+
+input[type=email]:focus,
+input[type=password]:focus
+{
+
+	border: 2px solid #a5cda5;
+	background-color: #e9f3e9;
+	color: #428c42;
+}
+
+input[type=submit]
+{
+	width: 300px;
+  background-color: #36b03c;
+	font-size:20px;
+	color: white;
+	padding: 15px 10px;
+	margin-top: 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none;
+}
+
+
+
+input[type=submit]:hover
+{
+	background-color: #37b93d;
+}

@@ -1,0 +1,216 @@
+body
+{
+  /* Background pattern from subtlepatterns.com */
+  background-image: url(../images/random_grey_variations.png);
+
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  color: #97c0d3;
+  text-align: center;
+}
+header
+{
+  margin-top: 100px;
+  font-size: 3.6em;
+  margin-bottom: 30px;
+}
+a
+{
+  text-decoration: none;
+  color: #e5e9eb;
+
+
+}
+form
+{
+  margin-top: 50px;
+}
+/*#cena, #ilosc
+{
+  width: 70px;
+
+}*/
+#data
+{
+  width: 150px;
+}
+.administrator
+{
+  background-color: rgba(255,64,0,0.6);
+}
+.open
+{
+
+    color: #fff;
+    width: 40%;
+    padding: 5px;
+    margin: 0 auto;
+    background-color: rgba(0,204,0,0.6);
+    border: solid 1px #000;
+}
+.open:hover
+ {
+  cursor: pointer;
+}
+
+.hideForm
+{
+    width: 40%;
+    padding: 5px;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 50px;
+    display: none;
+    background-color:inherit;
+}
+.openSearch
+{
+
+    color: #fff;
+    width: 40%;
+    padding: 5px;
+    margin: 0 auto;
+    background-color: rgba(0,204,0,0.6);
+    border: solid 1px #000;
+}
+.openSearch:hover
+ {
+  cursor: pointer;
+}
+
+.hideFormSearch
+{
+    width: 40%;
+    padding: 5px;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 50px;
+    display: none;
+    background-color:inherit;
+}
+.rejestracja
+{
+  text-decoration: none;
+  font-size: 20px;
+	position: fixed;
+	right: 100px;
+  top: 40px;
+  background-color: #36b03c;
+  padding: 10px;
+}
+.rejestracja:hover
+{
+  background-color: #37b93d;
+}
+.index_wyloguj
+{
+  text-decoration: none;
+  font-size: 20px;
+	position: fixed;
+	right: 300px;
+  top: 40px;
+  background-color: #36b03c;
+  padding: 10px;
+}
+.index_wyloguj:hover
+{
+  background-color: #37b93d;
+}
+.user
+{
+  color: #36b03c;
+  text-decoration: none;
+  font-size: 20px;
+	position: fixed;
+	right: 270px;
+  top: 40px;
+  padding: 10px;
+  padding-right: 20px;
+}
+.admin
+{
+  color: #f00;
+  text-decoration: none;
+  font-size: 20px;
+	position: fixed;
+	right: 270px;
+  top: 40px;
+  padding: 10px;
+  padding-right: 20px;
+}span
+{
+  padding: 10px;
+  margin-top: 20px;
+}
+.error
+{
+  padding: 10px;
+  font-size: 15px;
+  color: #f00;
+
+}
+#start
+{
+  margin-top: 50px;
+  font-size: 1.2em;
+}
+#tables
+{
+  display: block;
+  margin: 0 auto;
+  padding: 20px;
+  width: 80%;
+  border-radius: 15px;
+  background-color: rgba(1,1,0,0.2);
+  margin-top: 3px;
+  font-size: 1.6em;
+
+}
+#tables:hover
+{
+  background-color: rgba(0,150,0,0.3);
+}
+#menu
+{
+  padding: 10px;
+  margin-top: 40px;
+
+}
+#topTable
+{
+  background-color: rgba(0,153,255,0.6);
+}
+#form
+{
+  margin-bottom: 20px !important;
+  padding: 20px;
+
+
+}
+tr
+{
+  background-color: rgba(0,204,0,0.6);
+}
+table
+{
+  color: #fff;
+ border: 1px solid black;
+ border-collapse: collapse;
+ margin: 0 auto;
+ margin-top: 50px;
+}
+td
+{
+   border: 1px solid #000;
+   padding:5px;
+   width: 200px;
+}
+.scrollup
+{
+  color: #fff;
+	text-decoration: none;
+  font-size: 40px;
+	position: fixed;
+	right: 60px;
+	bottom: 50px;
+	display: none;
+}
